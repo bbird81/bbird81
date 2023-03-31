@@ -15,7 +15,7 @@ VoIP, video and IMs (aka Unified Communication & Collaboration) had it all:
 * you needed to understand **databases** (_when you deal with **a lot** of phone devices/phone numbers aka dial plan, being able to directly read or manipulate your data in SQL makes a difference_).
 * you needed to be **able to script** (_doing stuff in bulk really saves a lot of efforts and spares you from the misery of human fallacy, God bless the inventor of APIs_).
 
-Cisco Call Manager in particular was the epithome of this: the most powerful communication solution existing to date, able to do it all, with all sort of technology crammed in. If you think you cannot do something with the Call Manager (_well, UC related obviously_) it means you don't know it enough.
+Cisco Call Manager in particular was the epitome of this: the most powerful communication solution existing to date, able to do it all, with all sort of technology crammed in. If you think you cannot do something with the Call Manager (_well, UC related obviously_) it means you don't know it enough.
 
 So, while becoming a UCC specialist, I was in fact becoming a jack of all trades of IT.
 
