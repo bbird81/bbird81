@@ -1,6 +1,6 @@
 I'm not a developer.
 ====================
-##### I'm just an infra guy doing some random stuff.
+##### Well not exactly... I'm more of an infra guy doing dev stuff.
 
 Started more than 10 years ago at the lowest level of the IT ladder, helpdesk & support, and climbed my way up to the architect level.
 
